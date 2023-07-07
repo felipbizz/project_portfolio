@@ -1,5 +1,5 @@
 # Felipe Bizzo
-##### Cientista de Dados Júnior
+##### Cientista de Dados
 
 Acesse mais informações sobre mim em meu linkedin: <https://www.linkedin.com/in/felipe-bizzo/>
 
