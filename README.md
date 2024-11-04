@@ -12,7 +12,15 @@ Acesse mais informações sobre mim em meu linkedin: <https://www.linkedin.com/i
 * [Resolvendo problemas temodinâmicos:](https://github.com/felipbizz/project_portfolio/tree/main/exercicios_sistemas_termicos) Solução de problemas termodinâmicos do livro Van Wylen utilizando a biblioteca [PYroMat](http://www.pyromat.org/)
 
 
-## Projetos que tive a oportunidade de trabalhar na [@Tech](www.techagr.com):
+## Projetos que tive a oportunidade de trabalhar na www.techagr.com :
 * **Modelo de Regressão para predição de consumo:** O objetivo é identificar com poucos dias de coleta qual será o consumo de alimento dos animais nos próximos meses.
 * **Modelo de clusterização para lotes de animais:** O objetivo é identificar dentro de cada lote quais animais são mais homogêneos e segmentar em lotes menores.
 * **Web Scraping:** Nesse projeto coletei dados de preço da arroba e dados meteorológicos para cada cidade onde há cliente.
+
+## Tutoriais desenvolvidos:
+#### Aqui estão alguns tutoriais que desenvolvi para auxiliar a minha equipe na utilização de algumas ferramentas.
+* [DuckDB:](https://github.com/felipbizz/exemplo_duckdb) Tutorial de como utilizar o DuckDB com python.
+* [PostgresSQL:](https://github.com/felipbizz/exemplo_postgres/blob/main/pandas_pg_creating_table.ipynb) Criando tabela no Postgres utilizando sqlalchemy e pandas.
+* [BashScript:](https://github.com/felipbizz/exemplo_bash_script) Exemplo de como utilizar bash script.
+* [Vector Search:](https://github.com/felipbizz/exemplo_vector_image_search) Nesse tutorial há um exemplo de como aplicar um vector search em imagens utilizando o DuckDB
+* [Docker Data Science project](https://github.com/felipbizz/endtoend-project/) Exemplo de estrutura de um docker compose com ambiente para desenvolvimento, frontend, banco de dados, orquestração de pipeline de dados e API Rest.
